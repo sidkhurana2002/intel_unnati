@@ -1,0 +1,11 @@
+Agreement Details: Clause 'Agreement Details': Content changed.
+Purpose: Clause 'Purpose': Content changed.
+Consideration: Clause 'Consideration': Content changed.
+Confidential Information: Clause 'Confidential Information': Content changed.
+Definition of Information: Clause 'Definition of Information': Content changed.
+Legal Disclosure: Clause 'Legal Disclosure': Content changed.
+Duration of Confidentiality: Unexpected clause in example contract
+Third-Party Disclosure: Unexpected clause in example contract
+Severability: Unexpected clause in example contract
+Governing Law: Unexpected clause in example contract
+Counterparts: Unexpected clause in example contract
